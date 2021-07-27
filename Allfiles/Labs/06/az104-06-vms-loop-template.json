@@ -4,7 +4,7 @@
     "parameters": {
         "vmSize": {
             "type": "string",
-            "defaultValue": "Standard_D2s_v3",
+            "defaultValue": "Standard_B1s",
             "metadata": {
                 "description": "VM size"
             }
